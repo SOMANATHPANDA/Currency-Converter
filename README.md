@@ -43,9 +43,10 @@ To run this project locally, you need to have the following installed on your ma
 
 1. Clone the repository:
 
-
+```bash
 git clone https://github.com/SOMANATHPANDA/Currency-Converter.git
 cd Currency-Converter
+exit
 
 2. Install dependencies:
 
