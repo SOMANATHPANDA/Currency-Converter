@@ -43,18 +43,18 @@ To run this project locally, you need to have the following installed on your ma
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/SOMANATHPANDA/Currency-Converter.git
 cd Currency-Converter
 
 2. Install dependencies:
 
-```bash
+
 npm install
 
 3. Start the development server:
 
-```bash
+
 npm run dev
 
 The app should now be running locally at http://localhost:3000.
